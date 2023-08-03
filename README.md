@@ -1,6 +1,8 @@
 # github-iambic-templates
 This is a GitHub Repository Template to create iambic-templates repository
 
+We recommend you name the repository `iambic-templates` in your GitHub organization when you create the repository using this repository template.
+
 # How is this repository used?
 [GitOps](https://about.gitlab.com/topics/gitops/) is a modern approach to managing and maintaining software infrastructure through version-controlled code repositories like Git. It combines development best practices, such as version control and automated testing, with operations tasks like deployment and monitoring. In a nutshell, GitOps makes it easy for developers and operations teams to collaborate and maintain infrastructure by treating it as code.
 
