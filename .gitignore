@@ -1,0 +1,5 @@
+# ignore python virtual env
+env
+
+# ignore iambic proposed changes
+proposed_changes.*
