@@ -1,5 +1,9 @@
 # ignore python virtual env
-env
+env/
+venv/
 
 # ignore iambic proposed changes
-proposed_changes.*
+proposed_changes*
+
+# ignore any local secrets
+**/secrets.yaml
